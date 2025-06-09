@@ -143,7 +143,9 @@ Los outliers en cobertura bruta están asociados con:
    
 5.	Mejora de Calidad: Implementar intervenciones que fortalezcan el aprendizaje y reduzcan el rezago escolar
    
-## 7.	Monitoreo Continuo: Establecer sistemas de seguimiento a los municipios con indicadores atípicos
+## 7.	Monitoreo Continuo:
+
+Establecer sistemas de seguimiento a los municipios con indicadores atípicos
 
 ## Consideraciones Metodológicas
 
